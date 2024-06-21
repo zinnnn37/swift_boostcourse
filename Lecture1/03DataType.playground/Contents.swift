@@ -28,6 +28,7 @@ charVar = "가"
 //charVar = "ABC" // error
 
 var strVar: String = "ABC"
+//strVar = charVar // error
 //strVar = 'abc' // error
 strVar = "가나다✨"
 strVar = "Hello " + "World"
